@@ -9,5 +9,7 @@ def toadstool
 end
 
 def link 
-  puts 
+  advice = "It's Dangerous To Go Alone! Take This."
+  puts advice
 end
+
